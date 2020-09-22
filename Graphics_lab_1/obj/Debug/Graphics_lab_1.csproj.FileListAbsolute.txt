@@ -1,0 +1,10 @@
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\bin\Debug\Graphics_lab_1.exe.config
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\bin\Debug\Graphics_lab_1.exe
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\bin\Debug\Graphics_lab_1.pdb
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\obj\Debug\Graphics_lab_1.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\obj\Debug\Graphics_lab_1.MainWindow.resources
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\obj\Debug\Graphics_lab_1.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\obj\Debug\Graphics_lab_1.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\obj\Debug\Graphics_lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\obj\Debug\Graphics_lab_1.exe
+C:\Users\Andrey\source\repos\Graphics_lab_1\Graphics_lab_1\obj\Debug\Graphics_lab_1.pdb
